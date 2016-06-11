@@ -1,0 +1,28 @@
+name: comp735vids
+favicon: null
+layout_spectrum: 0.0038294161204248667
+typography_spectrum: 0.9283333432395011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7813419313170016
+  lightness: 0.843587851151824
+  saturation: 0.0011859491933137178
+  rhythmicContrast: 0.4160212951246649
+purpose: []
